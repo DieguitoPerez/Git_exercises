@@ -4,6 +4,7 @@ Green
 Red
 Yellow
 pink
-
+Orange
+Blue
 
 Esos son los colores del arcoiris.
